@@ -44,9 +44,4 @@ The project includes an **ESP8266** microcontroller and integrates sensors with 
 
 5. **Run the Project**: After uploading the code, monitor and control devices via the Blynk app.
 
-## Contributing:
 
-Feel free to fork the repository, open issues, and submit pull requests.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
