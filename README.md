@@ -97,3 +97,11 @@ For more information, visit the project documentation in the [Documentation/](Do
 🎥 Check out the complete journey of creating HydroWatch: [Demo Video](Presentation/DemoVideo.mp4)  
 
 
+## 📸 **Team Photo with HydroWatch**
+
+Here’s a photo of our amazing team, **Team Gamma**, presenting the **HydroWatch** project!  
+
+![Team and HydroWatch](Images/Team Gamma.jpg)  
+
+
+
