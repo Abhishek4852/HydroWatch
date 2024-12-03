@@ -92,3 +92,8 @@ Check out our system setup and working model in the [Images/](Images/) folder.
 
 For more information, visit the project documentation in the [Documentation/](Documentation/) folder.  
 
+## 📹 Project Journey Video  
+
+🎥 Check out the complete journey of creating HydroWatch: [Demo Video](Presentation/DemoVideo.mp4)  
+
+
