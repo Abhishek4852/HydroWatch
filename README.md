@@ -96,7 +96,7 @@ For more information, visit the project documentation in the [Documentation/](Do
 
 ## 📹 Project Journey Video  
 
-🎥 Check out the complete journey of creating HydroWatch: [Demo Video](Presentation/DemoVideo.mp4)  
+🎥 Check out the complete journey of creating HydroWatch: [Demo Video]([Presentation/DemoVideo.mp4](https://youtube.com/shorts/W3gPFUEkC2A?feature=share))  
 
 ---
 
