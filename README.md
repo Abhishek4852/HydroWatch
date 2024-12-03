@@ -101,7 +101,7 @@ For more information, visit the project documentation in the [Documentation/](Do
 
 Here’s a photo of our amazing team, **Team Gamma**, presenting the **HydroWatch** project!  
 
-![Team and HydroWatch](Images/Team Gamma.jpg)  
+![Team and HydroWatch](Images/TeamGamma.jpg)  
 
 
 
